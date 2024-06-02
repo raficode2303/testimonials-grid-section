@@ -78,7 +78,7 @@ a {
 
 /* === classes === */
 .app {
-  max-width: 83vw;
+  max-width: 72vw;
   min-height: 100vh;
   padding-block: 4rem;
   margin: auto;
@@ -120,7 +120,7 @@ a {
 }
 .card:nth-child(5) {
   background-color: var(--color-white, white);
-  color: var(--color-very-dark-blackish-blue, black);
+  color: var(--color-very-dark-grayish-blue, black);
 }
 .avatar {
   display: grid;
